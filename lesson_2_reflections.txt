@@ -1,0 +1,5 @@
+What happens when you initialize a repository?  Why do you need to do it?
+ - Create a .git directory to start tracking meta data. Need to tell git that you want to track this directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - It's an intermediate between the working directory and repository. It allows you to organize your commits.
