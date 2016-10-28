@@ -9,3 +9,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
  - It's easy to see how the branch paths and how they relate
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ - We incorporate the changes from both branches.  The diagram symbolizes how the two code paths merge.
